@@ -1,5 +1,9 @@
+-- Test UI
+
 --[[
-	UwU Matty Was Here
+	ui-engine-v2
+	version 1.3a
+	by Singularity (V3rm @ King Singularity) (Discord @ Singularity#5490)
 --]]
 
 local ui_options = {
@@ -2019,5 +2023,3 @@ function library:AddWindow(title, options)
 
 	return window_data, Window
 end
-
-do
